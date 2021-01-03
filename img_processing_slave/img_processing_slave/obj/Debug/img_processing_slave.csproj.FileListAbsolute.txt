@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\bin\Debug\img_processing_slave.exe.config
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\bin\Debug\img_processing_slave.exe
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\bin\Debug\img_processing_slave.pdb
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\bin\Debug\img_processing_shared_dll.dll
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\bin\Debug\img_processing_shared_dll.pdb
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\obj\Debug\img_processing_slave.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\obj\Debug\img_processing_slave.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\obj\Debug\img_processing_slave.csproj.CopyComplete
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\obj\Debug\img_processing_slave.exe
+C:\Users\User\source\repos\nastya\img_processing_slave\img_processing_slave\obj\Debug\img_processing_slave.pdb

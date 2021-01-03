@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\bin\Debug\img_process_master.exe.config
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\bin\Debug\img_process_master.exe
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\bin\Debug\img_process_master.pdb
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\obj\Debug\img_process_master.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\obj\Debug\img_process_master.Form1.resources
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\obj\Debug\img_process_master.Properties.Resources.resources
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\obj\Debug\img_process_master.csproj.GenerateResource.cache
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\obj\Debug\img_process_master.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\obj\Debug\img_process_master.exe
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\obj\Debug\img_process_master.pdb
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\bin\Debug\img_processing_shared_dll.dll
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\bin\Debug\img_processing_shared_dll.pdb
+C:\Users\User\source\repos\nastya\img_process_master\img_process_master\obj\Debug\img_process_master.csproj.CopyComplete

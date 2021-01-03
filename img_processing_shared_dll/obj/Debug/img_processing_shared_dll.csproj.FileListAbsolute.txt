@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\nastya\img_processing_shared_dll\obj\Debug\img_processing_shared_dll.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nastya\img_processing_shared_dll\bin\Debug\img_processing_shared_dll.dll
+C:\Users\User\source\repos\nastya\img_processing_shared_dll\bin\Debug\img_processing_shared_dll.pdb
+C:\Users\User\source\repos\nastya\img_processing_shared_dll\obj\Debug\img_processing_shared_dll.dll
+C:\Users\User\source\repos\nastya\img_processing_shared_dll\obj\Debug\img_processing_shared_dll.pdb
+C:\Users\User\source\repos\nastya\img_processing_shared_dll\obj\Debug\img_processing_shared_dll.csprojAssemblyReference.cache
